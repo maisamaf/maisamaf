@@ -1,10 +1,18 @@
 # 💫About Me :
-I am a passionate front-end developer with over two years of development experience with a couple of published apps with over 150K downloads. I have been working on products focused on Developer Experience (DX).
+I am a passionate front-end developer with over two years of development experience with a couple of published apps with over 150K downloads. I have been working on products focused on Developer Experience (DX). 
+
+I have hands-on experience with the following languages, technologies and tools: JavaScript, HTML5, CSS3, TailwindCSS, Bootstrap, ReactJS, VueJS, NuxtJS, GraphQL, Android, and Git.
+
+I am eager to learn new technologies and face challenges.
+
+Reach out to me at maisam.afshar@gmail.com
 
 I'm currently:
 ```
-🧲 Improving my React.js Skills by studying EpictReact.
+💻 Building Vue products.
+🧲 Improving my React.js Skills by studying Epict React.
 💻 Building the website of my published social app.
+and more...
 ```
 💛 And, uh I love web development!
 
