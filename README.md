@@ -1,24 +1,5 @@
 # 💫About Me :
-I am a passionate Frontend Engineer with over three years of full-time work experience. I currently work with JavaScript in VueJS, ReactJS, and NextJS. For the past year, I have been working on Developer Experience (DX) focused products. I started my career by mentoring and building Android mobile applications, which are live on the Play Store and have more than 150K downloads.
-
-I have hands-on experience with the following languages, frameworks and tools: JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap, ReactJS, VueJS, NuxtJS, NextJS, Git and GitHub, NPM, and Adobe XD.
-
-I am also familiar with Unit Testing using Jest and Vue Test Utils.
-
-In my free time, I read blogs, build projects to hone my skills, and add new content to my websites (Ketaaabkhan.com and opp4af.com).
-
-I am eager to learn new technologies and face challenges essential for my career growth.
-
-Reach out to me at maisam.afshar[at]gmail.com
-
-I'm currently:
-```
-💻 Building Vue products.
-🧲 Improving my React.js Skills by studying Epict React.
-💻 Building the website of my published social app.
-and more...
-```
-💛 And, uh I love web development!
+Frontend Developer(ReactJS, NextJS, VueJS, NuxtJS).
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maisam-afshar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/imaisam) 
