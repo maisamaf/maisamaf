@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Maisam Afshar</h1>
-<h3 align="center">A passionate frontend developer from Afghanistan focused on React, Next, Vue, Nuxt.</h3>
+<h3 align="center">A passionate frontend developer from Afghanistan focused on React, Next, Vue, and Nuxt.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maisamaf&label=Profile%20views&color=0e75b6&style=flat" alt="maisamaf" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Vue, Nuxt, React, and Next.**
 
-- 📫 How to reach me **maisam.afshar[at].gmail.com**
+- 📫 How to reach me **maisam.afshar[at]gmail.com**
 
 - 📄 Know about my experiences [https://maisam.dev](https://maisam.dev)
 
