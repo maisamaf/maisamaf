@@ -1,8 +1,6 @@
 # 💫 About Me:
 
 <br>
-- 🧐 I am currently seeking a part-time remote position for Next.js or Vue.js. 🧲
-<br>
 - 👨‍💻 I’m currently improving skills in <strong>Accessibility, UI/UX and more.</strong>
 <br>
 - 📝 I am writing content on my <a href="https://maisam.dev/blog" target="_blank">blog</a> .<br>
