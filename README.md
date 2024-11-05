@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Maisam and I'm a Front End developer from Afghanistan. 🇦🇫</p>
+<p align="left">My name is Maisam, and I am a Front-End Developer pursuing my M.Sc. in Computer Science at the University of Passau, Germany.</p>
 
 ###
 
